@@ -16,3 +16,4 @@ I believe in **learning by doing**, and this repo will serve as my **public jour
 ## 🤝 Connect With Me  
 Let's grow together! If you're also learning Python, let's connect. 💡  
  
+- 💼 **LinkedIn**: [www.linkedin.com/in/hamza-ahmed-9b38402b3]  
